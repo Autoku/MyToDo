@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ln_name">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="bt_name">ลงชื่อเข้าใช้</string>
+    <string name="em_name">อีเมล</string>
+    <string name="ps_name">รหัสผ่าน</string>
+    <string name="dt_name">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+</resources>

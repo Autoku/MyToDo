@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">My ToDo</string>
+    <string name="Ln_name">Login To Your Account</string>
+    <string name="em_name">Email</string>
+    <string name="ps_name">Password</string>
+    <string name="bt_name">Login</string>
+    <string name="dt_name">Don\'t have an account? Regiter</string>
+</resources>
